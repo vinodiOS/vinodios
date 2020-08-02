@@ -16,4 +16,5 @@ Cloud Services: Firebase
 Design Patterns: MVC, MVVM, Singleton, Delegation
 
 IDEs: Xcode, Visual Studio Code, PyCharm, Anaconda
+
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](www.linkedin.com/in/vinod-jagtap)
