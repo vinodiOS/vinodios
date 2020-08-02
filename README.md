@@ -17,5 +17,5 @@ These are the technologies that I work on:
 
 - **IDEs:** Xcode, Visual Studio Code, PyCharm, Anaconda
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/vinod-jagtap)
-&nbsp;
+<center>[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/vinod-jagtap)
+&nbsp;</center>
