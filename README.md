@@ -1,9 +1,9 @@
 ### Hi, I am Vinod
 
-I have been programming in iOS for the last 4 years. Other than iOS I work with hybrid app development using flutter, Django REST framework and recently completed Data Science training with leading organization in Pune. I have published several apps on app store in many fields including insurance, healthcare, social media and data security.
+I have been programming in iOS for the last 4 years. Other than iOS I work with hybrid app development using flutter, FastAPI and recently completed Data Science training with leading organization in Pune. I have published several apps on app store in many fields including insurance, healthcare, social media and data security.
 These are the technologies that I work on:
 
-Native iOS Development: Swift, Objective-C, RxSwift, RxCocoa
+*Native iOS Development:* Swift, Objective-C, RxSwift, RxCocoa
 
 Hybrid Application Development: Flutter
 
