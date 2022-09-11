@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am currently working on Full Stack apps and learning SwiftUI and Spring Framework.
+<h1 align="center">Hi 👋, I'm Vinod</h1>
+<h3 align="center">Software Engineer having 6 years of experience.</h3>
 
 
 # 💻 Tech Stack:
