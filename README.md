@@ -1,4 +1,3 @@
-# 💫 About Me:
 <h1 align="center">Hi 👋, I'm Vinod</h1>
 <h3 align="center">Software Engineer having 6 years of experience.</h3>
 
