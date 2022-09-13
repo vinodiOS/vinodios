@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vinod</h1>
 <h3 align="center">Software Engineer having 6 years of experience.</h3>
 
-- 🌱 I’m currently learning **SwifUI, Combine, Spring Framework**.
+- 🌱 I’m currently exploring **SwifUI, Combine, Spring Framework**.
 - 📫 How to reach me **vinod.jagtap@hotmail.com**
 
 # 💻 Tech Stack:
