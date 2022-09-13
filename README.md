@@ -1,5 +1,5 @@
-Hi 👋, I'm Vinod
-Software Engineer having 6 years of experience.
+<h1>Hi 👋, I'm Vinod</h1>
+<h3>Software Engineer having 6 years of experience.</h3>
 
 - 🌱 I’m currently exploring **SwifUI, Combine, Spring Framework**.
 - 📫 How to reach me **vinod.jagtap@hotmail.com**
